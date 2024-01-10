@@ -1,6 +1,6 @@
 echo git utilities:
 echo git init - initialises folder as git repo
-echo git add [file(s)] - stages changes to local repo
+echo git add [file or folder] - stages changes to local repo
 echo git commit -m "[message]" - commits stage to branch with message
 echo git push - pushes commit to remote repo
 echo git pull - pulls from remote branch to local
