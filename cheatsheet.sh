@@ -10,4 +10,3 @@ echo 'git branch - lists branches in repo'
 echo 'git checkout -b [branchName] - creates new branch on local repo'
 echo 'git push -u origin [branchName] - pushes branch from local to remote'
 echo 'git pull origin [branchName] - pulls data from remote branch into current local branch'
-
